@@ -1,0 +1,7 @@
+8.1 Bars.
+8.2 Bread/sandwiches.
+8.3 Cheese.
+8.4 Chips/crisps.
+8.5 Crackers/biscuits.
+8.6 Meat-based.
+8.7 Noodles.
